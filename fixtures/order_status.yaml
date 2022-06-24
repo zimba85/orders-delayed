@@ -1,10 +1,10 @@
 App\Entity\OrderStatus:
-  status_1:
+  order_status_1:
     id: 1
     name: "Created"
-  status_2:
+  order_status_2:
     id: 2
     name: "Dispatched"
-  status_3:
+  order_status_3:
     id: 3
     name: "Delivered"

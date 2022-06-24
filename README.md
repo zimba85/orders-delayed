@@ -97,3 +97,9 @@ Parameters
 ```bash
 docker exec -it php ./bin/console app:order:check-arrival
 ```
+
+### Testing ###
+
+```bash
+docker exec -it electric_miles_app php ./bin/phpunit
+```

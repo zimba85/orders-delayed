@@ -1,0 +1,29 @@
+App\Entity\Order:
+  order_1:
+    id: 1
+    status: "@order_status_1"
+    estimatedArrival: <dateTime()>
+    deliveryAddress1: "delivery_address1"
+    deliveryAddress2: "delivery_address2"
+    deliveryCity: "delivery_city"
+    deliveryPostcode: "delivery_postcode"
+    deliveryCountry: "delivery_country"
+    billingAddress1: "billing_address1"
+    billingAddress2: "billing_address2"
+    billingCity: "billing_city"
+    billingPostcode: "billing_postcode"
+    billingCountry: "billing_country"
+  order_2:
+    id: 2
+    status: "@order_status_1"
+    estimatedArrival: <dateTime()>
+    deliveryAddress1: "delivery_address1"
+    deliveryAddress2: "delivery_address2"
+    deliveryCity: "delivery_city"
+    deliveryPostcode: "delivery_postcode"
+    deliveryCountry: "delivery_country"
+    billingAddress1: "billing_address1"
+    billingAddress2: "billing_address2"
+    billingCity: "billing_city"
+    billingPostcode: "billing_postcode"
+    billingCountry: "billing_country"
