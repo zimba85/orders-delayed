@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c323ee9a-fbab-4fe3-b110-f7140d2ef286" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/OrderDelayed.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/OrderDelayed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +170,7 @@
       <updated>1656009818331</updated>
       <workItem from="1656009819466" duration="712000" />
       <workItem from="1656010643531" duration="5612000" />
-      <workItem from="1656065143901" duration="22502000" />
+      <workItem from="1656065143901" duration="23340000" />
     </task>
     <servers />
   </component>
